@@ -1,4 +1,13 @@
-### Hi there 👋
+### Hi, I am luojiahai 👋
+
+- 🇨🇳 I am from Guangzhou, China
+- 🌐 I speak Mandarin Chinese, Cantonese Chinese and English
+- 🔭 I am currently working on nothing
+- 🌱 I am currently learning nothing
+- 👯 I’m looking to collaborate on nothing
+- 🤔 I’m looking for help with nothing
+- 💬 Ask me about nothing
+- 📫 How to reach me: hoipck@gmail.com
 
 <!--
 **luojiahai/luojiahai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
