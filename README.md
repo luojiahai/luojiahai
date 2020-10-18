@@ -1,6 +1,6 @@
-### 嗨，我是罗嘉海/Hi, I am luojiahai 👋
+### Hi, I am luojiahai 👋
 
-- 🇨🇳 广州/Guangzhou, 广东/Guangdong, 中国/China
+- 🇨🇳 Guangzhou, Guangdong, China
 - 📧 me[at]luojiahai.net
 
 <!--
