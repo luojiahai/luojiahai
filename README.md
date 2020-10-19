@@ -1,6 +1,6 @@
 ### Hi, I am luojiahai 👋
 
-- 🇨🇳 Guangzhou, Guangdong, China
+- 👶 Guangzhou, Guangdong, China
 - 📧 me[at]luojiahai.net
 - 🎓 [Curriculum vitae](https://luojiahai.net/cv/)
 
