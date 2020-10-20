@@ -1,8 +1,8 @@
 ### Hi, I am luojiahai 👋
 
 - 👶 China
-- 📧 me[at]luojiahai.net
 - 🎓 [Curriculum vitae](https://luojiahai.net/cv/)
+- 📧 me[at]luojiahai.net
 
 <!--
 **luojiahai/luojiahai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
