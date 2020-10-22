@@ -1,7 +1,7 @@
 ### Hi, I am luojiahai 👋
 
 - 👶 China
-- 📧 me[at]luojiahai.net
+- 📧 me[at]luojiahai.com
 - 🎓 [Curriculum vitae](https://luojiahai.net/cv/)
 
 <!--
