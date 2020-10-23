@@ -2,7 +2,7 @@
 
 - 👶 China
 - 📧 me[at]luojiahai.com
-- 🎓 [Curriculum vitae](https://luojiahai.net/cv/)
+- 🎓 [Curriculum vitae](https://luojiahai.com/cv/)
 
 <!--
 **luojiahai/luojiahai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
