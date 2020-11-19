@@ -11,7 +11,10 @@
 <img align="right" alt="GIF" src="https://media.giphy.com/media/3ov9jNziFTMfzSumAw/giphy.gif" />
 
 - 👶 I'm from China
-- 📧 My email is luo[at]jiahai.co
+- 🔭 I’m currently working on my personal projects
+- 🌱 I’m currently learning quantum information
+- 💬 Ask me about anything
+- 📧 My email address is luo[at]jiahai.co
 - 🎓 See my [Curriculum Vitae](https://luojiahai.com/cv/) for more information
 
 <!--
