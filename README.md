@@ -1,4 +1,4 @@
-### Hi, I am [luojiahai](https://luojiahai.com) 👋
+### Hi, I'm [luojiahai](https://luojiahai.com)! 👋
 
 - 👶 I'm from China
 - 📧 My email is luo[at]jiahai.co
