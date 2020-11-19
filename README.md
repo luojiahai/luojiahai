@@ -12,7 +12,7 @@
 
 - 👶 I'm from China
 - 📧 My email is luo[at]jiahai.co
-- 🎓 My CV can be found in [here](https://luojiahai.com/cv/)
+- 🎓 See my [Curriculum Vitae](https://luojiahai.com/cv/) for more information
 
 <!--
 **luojiahai/luojiahai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
