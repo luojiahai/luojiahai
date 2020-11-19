@@ -20,9 +20,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+![Git](https://img.shields.io/badge/-Git-%23F05032?style=flat-square&logo=git&logoColor=%23ffffff)
+![Azure](https://img.shields.io/badge/-Azure-1874cd?style=flat-square&logo=microsoft-azure&logoColor=%23ffffff)
 ![Python](http://img.shields.io/badge/-Python-3C78A9?style=flat-square&logo=python&logoColor=ffffff)
 ![Java](https://img.shields.io/badge/-Java-e35d6a?style=flat-square&logo=java&logoColor=%23ffffff)
-![Git](https://img.shields.io/badge/-Git-%23F05032?style=flat-square&logo=git&logoColor=%23ffffff)
 ![Apache](https://img.shields.io/badge/-Apache-E11E27?style=flat-square&logo=apache)
 ![NGINX](https://img.shields.io/badge/-NGINX-269539?style=flat-square&logo=nginx&logoColor=ffffff)
 ![PHP](https://img.shields.io/badge/-PHP-8892BF?style=flat-square&logo=php&logoColor=ffffff)
