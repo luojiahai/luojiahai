@@ -1,8 +1,17 @@
 ### Hi, I'm [luojiahai](https://luojiahai.com) 👋
 
+<a href="https://www.instagram.com/luojiahai/">
+  <img align="left" alt="Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
+</a>
+
+<br />
+<br />
+
+<img align="right" alt="GIF" src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" />
+
 - 👶 I'm from China
 - 📧 My email is luo[at]jiahai.co
-- 🎓 My CV is [here](https://luojiahai.com/cv/)
+- 🎓 My CV can be found in [here](https://luojiahai.com/cv/)
 
 <!--
 **luojiahai/luojiahai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
