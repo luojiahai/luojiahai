@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 ![Azure](https://img.shields.io/badge/-Azure-blue?style=flat-square&logo=microsoft-azure&logoColor=ffffff)
 ![Amazon Web Services](https://img.shields.io/badge/-AWS-orange?style=flat-square&logo=amazon&logoColor=ffffff)
 ![Python](http://img.shields.io/badge/-Python-3C78A9?style=flat-square&logo=python&logoColor=ffffff)
-![Java](https://img.shields.io/badge/-Java-red?style=flat-square&logo=java&logoColor=ffffff)
+![Java](https://img.shields.io/badge/-Java-ff0000?style=flat-square&logo=java&logoColor=ffffff)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-%23F7DF1C?style=flat-square&logo=javascript&logoColor=000000&labelColor=%23F7DF1C&color=%23FFCE5A)
 ![Docker](https://img.shields.io/badge/-Docker-blue?style=flat-square&logo=docker&logoColor=ffffff)
 ![Apache](https://img.shields.io/badge/-Apache-E11E27?style=flat-square&logo=apache)
