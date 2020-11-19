@@ -35,10 +35,6 @@ Here are some ideas to get you started:
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=ffffff)
 ![Node.js](https://img.shields.io/badge/-Node.js-green?style=flat-square&logo=Node.js&logoColor=ffffff)
-![Android](https://img.shields.io/badge/-Android-brightgreen?style=flat-square&logo=android&logoColor=ffffff)
-![iOS](https://img.shields.io/badge/-iOS-lightgrey?style=flat-square&logo=ios&logoColor=ffffff)
-![Xcode](https://img.shields.io/badge/-Xcode-blue?style=flat-square&logo=xcode&logoColor=ffffff)
-![Swift](https://img.shields.io/badge/-Swift-orange?style=flat-square&logo=swift&logoColor=ffffff)
 ![LaTeX](https://img.shields.io/badge/-LaTeX-008080?style=flat-square&logo=latex&logoColor=ffffff)
 ![Adobe Photoshop](https://img.shields.io/badge/-Abode%20Photoshop-26C9FF?style=flat-square&logo=adobe-photoshop&logoColor=ffffff)
 
