@@ -19,6 +19,7 @@ Here are some ideas to get you started:
 -->
 
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=ffffff)
+![Microsoft](https://img.shields.io/badge/-Microsoft-black?style=flat-square&logo=microsoft&logoColor=ffffff)
 ![Azure](https://img.shields.io/badge/-Azure-blue?style=flat-square&logo=microsoft-azure&logoColor=ffffff)
 ![Python](http://img.shields.io/badge/-Python-3C78A9?style=flat-square&logo=python&logoColor=ffffff)
 ![Java](https://img.shields.io/badge/-Java-red?style=flat-square&logo=java&logoColor=ffffff)
