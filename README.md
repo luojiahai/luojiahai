@@ -38,5 +38,6 @@ Here are some ideas to get you started:
 ![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
 ![LaTeX](https://img.shields.io/badge/-LaTeX-008080?style=flat-square&logo=latex&logoColor=ffffff)
 ![Adobe Photoshop](https://img.shields.io/badge/-Abode%20Photoshop-26C9FF?style=flat-square&logo=adobe-photoshop&logoColor=ffffff)
+![Adobe Lightroom Classic](https://img.shields.io/badge/-Adobe%20Lightroom%20Classic-26C9FF?style=flat-square&logo=adobe-lightroom-classic&logoColor=ffffff)
 
 [![luojiahai's github stats](https://github-readme-stats.vercel.app/api?username=luojiahai&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)](https://github.com/luojiahai/)
