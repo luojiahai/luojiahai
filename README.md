@@ -32,6 +32,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+#### Languages and Tools
+
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=ffffff)
 ![Microsoft](https://img.shields.io/badge/-Microsoft-black?style=flat-square&logo=microsoft&logoColor=ffffff)
 ![Azure](https://img.shields.io/badge/-Azure-blue?style=flat-square&logo=microsoft-azure&logoColor=ffffff)
