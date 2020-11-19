@@ -1,9 +1,7 @@
 ### Hi, I am [luojiahai](https://luojiahai.com) 👋
 
-- 👶 I'm from China
-- 📧 My email is luo[at]jiahai.co
-- 🔭 I’m currently working on my personal project
-- 🌱 I’m currently learning ...
+- 👶 China
+- 📧 luo[at]jiahai.co
 
 <!--
 **luojiahai/luojiahai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
