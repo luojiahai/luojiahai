@@ -40,7 +40,7 @@ Here are some ideas to get you started:
 ![C#](https://img.shields.io/badge/-C%23-purple?style=flat-square&logo=c-sharp&logoColor=white)
 ![.NET](https://img.shields.io/badge/-.NET-512bd4?style=flat-square&logo=.net&logoColor=white)
 ![Microsoft Azure](https://img.shields.io/badge/-Azure-blue?style=flat-square&logo=microsoft-azure&logoColor=white)
-![Amazon Web Services](https://img.shields.io/badge/-AWS-orange?style=flat-square&logo=amazon&logoColor=white)
+![Amazon Web Services](https://img.shields.io/badge/-AWS-ec7211?style=flat-square&logo=amazon&logoColor=white)
 ![Docker](https://img.shields.io/badge/-Docker-007bff?style=flat-square&logo=docker&logoColor=white)
 ![Node.js](https://img.shields.io/badge/-Node.js-43853d?style=flat-square&logo=Node.js&logoColor=white)
 ![React](https://img.shields.io/badge/-React-61dafb?style=flat-square&logo=react&labelColor=282c34)
