@@ -1,5 +1,11 @@
 ### Hi, I'm [luojiahai](https://luojiahai.com) 👋
 
+<a href="https://space.bilibili.com/866961/">
+  <img align="left" alt="Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/bilibili.svg" />
+</a>
+<a href="https://weibo.com/1952554453/">
+  <img align="left" alt="Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/sinaweibo.svg" />
+</a>
 <a href="https://www.instagram.com/luojiahai/">
   <img align="left" alt="Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
