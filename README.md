@@ -34,11 +34,11 @@ Here are some ideas to get you started:
 #### Technologies
 
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=ffffff)
-![Microsoft Azure](https://img.shields.io/badge/-Azure-blue?style=flat-square&logo=microsoft-azure&logoColor=ffffff)
-![Amazon Web Services](https://img.shields.io/badge/-AWS-orange?style=flat-square&logo=amazon&logoColor=ffffff)
 ![Python](http://img.shields.io/badge/-Python-3C78A9?style=flat-square&logo=python&logoColor=ffffff)
 ![Java](https://img.shields.io/badge/-Java-ff0000?style=flat-square&logo=java&logoColor=ffffff)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow?style=flat-square&logo=javascript&logoColor=ffffff)
+![Microsoft Azure](https://img.shields.io/badge/-Azure-blue?style=flat-square&logo=microsoft-azure&logoColor=ffffff)
+![Amazon Web Services](https://img.shields.io/badge/-AWS-orange?style=flat-square&logo=amazon&logoColor=ffffff)
 ![Docker](https://img.shields.io/badge/-Docker-007bff?style=flat-square&logo=docker&logoColor=ffffff)
 ![Node.js](https://img.shields.io/badge/-Node.js-43853d?style=flat-square&logo=Node.js&logoColor=ffffff)
 ![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
