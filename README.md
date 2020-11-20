@@ -33,8 +33,8 @@ Here are some ideas to get you started:
 
 </br>
 
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
-![Python](http://img.shields.io/badge/-Python-3C78A9?style=flat-square&logo=python&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-f14e32?style=flat-square&logo=git&logoColor=white)
+![Python](http://img.shields.io/badge/-Python-2b5b84?style=flat-square&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/-Java-ff0000?style=flat-square&logo=java&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-%23F7DF1C?style=flat-square&logo=javascript&logoColor=black&labelColor=F7DF1C&color=FFCE5A)
 ![C#](https://img.shields.io/badge/-C%23-purple?style=flat-square&logo=c-sharp&logoColor=white)
