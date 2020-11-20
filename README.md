@@ -37,6 +37,8 @@ Here are some ideas to get you started:
 ![Python](http://img.shields.io/badge/-Python-3C78A9?style=flat-square&logo=python&logoColor=ffffff)
 ![Java](https://img.shields.io/badge/-Java-ff0000?style=flat-square&logo=java&logoColor=ffffff)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow?style=flat-square&logo=javascript&logoColor=ffffff)
+![C#](https://img.shields.io/badge/-C%23-purple?style=flat-square&logo=c-sharp&logoColor=ffffff)
+![.NET](https://img.shields.io/badge/-.NET-512bd4?style=flat-square&logo=.net&logoColor=ffffff)
 ![Microsoft Azure](https://img.shields.io/badge/-Azure-blue?style=flat-square&logo=microsoft-azure&logoColor=ffffff)
 ![Amazon Web Services](https://img.shields.io/badge/-AWS-orange?style=flat-square&logo=amazon&logoColor=ffffff)
 ![Docker](https://img.shields.io/badge/-Docker-007bff?style=flat-square&logo=docker&logoColor=ffffff)
