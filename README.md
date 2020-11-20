@@ -3,7 +3,6 @@
 [![Bilibili](https://img.shields.io/badge/-Bilibili-FB7299?style=flat-square&logo=bilibili&logoColor=white)](https://space.bilibili.com/866961/)
 [![Weibo](https://img.shields.io/badge/-Weibo-eb7350?style=flat-square&logo=sina-weibo&logoColor=white)](https://weibo.com/1952554453/)
 [![Instagram](https://img.shields.io/badge/-Instagram-black?style=flat-square&logo=instagram&logoColor=white)](https://instagram.com/luojiahai/)
-[![Twitter](https://img.shields.io/badge/-Twitter-1da1f2?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/luojiahai/)
 
 ---
 
@@ -11,7 +10,7 @@
 <img align="right" alt="GIF" src="https://media.giphy.com/media/3ov9jNziFTMfzSumAw/giphy.gif" />
 
 - 👶 I'm from China
-- 🔭 I’m currently working on my personal projects
+- 🔭 I’m currently working on random projects
 - 🌱 I’m currently learning quantum information
 - 💬 Ask me about anything
 - 📧 My email address is luo[at]jiahai.co
