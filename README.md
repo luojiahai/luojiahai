@@ -29,6 +29,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+#### Technologies
+
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=ffffff)
 ![Microsoft Azure](https://img.shields.io/badge/-Azure-blue?style=flat-square&logo=microsoft-azure&logoColor=ffffff)
 ![Amazon Web Services](https://img.shields.io/badge/-AWS-orange?style=flat-square&logo=amazon&logoColor=ffffff)
