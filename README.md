@@ -8,7 +8,6 @@
 
 ---
 
-<!-- <img align="right" alt="GIF" src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" /> -->
 <img align="right" alt="GIF" src="https://media.giphy.com/media/3ov9jNziFTMfzSumAw/giphy.gif" />
 
 - 👶 I'm from [China](https://ditu.amap.com/place/B0FFF9IT5H)
