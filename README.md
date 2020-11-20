@@ -50,7 +50,5 @@ Here are some ideas to get you started:
 ![Node.js](https://img.shields.io/badge/-Node.js-black?style=flat-square&logo=Node.js)
 ![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
 ![LaTeX](https://img.shields.io/badge/-LaTeX-008080?style=flat-square&logo=latex&logoColor=ffffff)
-![Adobe Photoshop](https://img.shields.io/badge/-Abode%20Photoshop-26C9FF?style=flat-square&logo=adobe-photoshop&logoColor=ffffff)
-![Adobe Lightroom Classic](https://img.shields.io/badge/-Adobe%20Lightroom%20Classic-26C9FF?style=flat-square&logo=adobe-lightroom-classic&logoColor=ffffff)
 
 [![luojiahai's github stats](https://github-readme-stats.vercel.app/api?username=luojiahai&show_icons=true&hide_border=true)](https://github.com/luojiahai/)
