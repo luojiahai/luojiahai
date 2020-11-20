@@ -1,8 +1,8 @@
 ### Hi, I'm [luojiahai](https://luojiahai.com) 👋
 
-![Bilibili](https://img.shields.io/badge/-Bilibili-black?style=flat-square&logo=bilibili&logoColor=white&link=https://space.bilibili.com/866961/)
-![Weibo](https://img.shields.io/badge/-Weibo-black?style=flat-square&logo=sina-weibo&logoColor=white&link=https://weibo.com/1952554453/)
-![Instagram](https://img.shields.io/badge/-Instagram-black?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/luojiahai/)
+[![Bilibili](https://img.shields.io/badge/-Bilibili-black?style=flat-square&logo=bilibili&logoColor=white)](https://space.bilibili.com/866961/)
+[![Weibo](https://img.shields.io/badge/-Weibo-black?style=flat-square&logo=sina-weibo&logoColor=white)](https://weibo.com/1952554453/)
+[![Instagram](https://img.shields.io/badge/-Instagram-black?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/luojiahai/)
 
 <!-- <img align="right" alt="GIF" src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" /> -->
 <img align="right" alt="GIF" src="https://media.giphy.com/media/3ov9jNziFTMfzSumAw/giphy.gif" />
