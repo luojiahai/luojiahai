@@ -31,6 +31,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+#### Technologies
+
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=ffffff)
 ![Microsoft Azure](https://img.shields.io/badge/-Microsoft%20Azure-blue?style=flat-square&logo=microsoft-azure&logoColor=ffffff)
 ![Amazon Web Services](https://img.shields.io/badge/-AWS-orange?style=flat-square&logo=amazon&logoColor=ffffff)
@@ -40,7 +42,7 @@ Here are some ideas to get you started:
 ![Docker](https://img.shields.io/badge/-Docker-blue?style=flat-square&logo=docker&logoColor=ffffff)
 ![MySQL](http://img.shields.io/badge/-MySQL-007599?style=flat-square&logo=MySQL&logoColor=ffffff)
 ![PHP](https://img.shields.io/badge/-PHP-8892BF?style=flat-square&logo=php&logoColor=ffffff)
-![Node.js](https://img.shields.io/badge/-Node.js-black?style=flat-square&logo=Node.js)
+![Node.js](https://img.shields.io/badge/-Node.js-green?style=flat-square&logo=Node.js&logoColor=ffffff)
 ![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
 ![LaTeX](https://img.shields.io/badge/-LaTeX-008080?style=flat-square&logo=latex&logoColor=ffffff)
 
