@@ -7,8 +7,6 @@
 <!-- <img align="right" alt="GIF" src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" /> -->
 <img align="right" alt="GIF" src="https://media.giphy.com/media/3ov9jNziFTMfzSumAw/giphy.gif" />
 
-#### About Me
-
 - 👶 I'm from China
 - 🔭 I’m currently working on my personal projects
 - 🌱 I’m currently learning quantum information
@@ -30,8 +28,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-#### Languages and Tools
 
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=ffffff)
 ![Microsoft Azure](https://img.shields.io/badge/-Azure-blue?style=flat-square&logo=microsoft-azure&logoColor=ffffff)
