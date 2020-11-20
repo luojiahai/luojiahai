@@ -3,6 +3,7 @@
 [![Bilibili](https://img.shields.io/badge/-%E5%93%94%E5%93%A9%E5%93%94%E5%93%A9-FB7299?style=flat-square&logo=bilibili&logoColor=white)](https://space.bilibili.com/866961/)
 [![Weibo](https://img.shields.io/badge/-%E5%BE%AE%E5%8D%9A-eb7350?style=flat-square&logo=sina-weibo&logoColor=white)](https://weibo.com/1952554453/)
 [![Instagram](https://img.shields.io/badge/-Instagram-black?style=flat-square&logo=instagram&logoColor=white)](https://instagram.com/luojiahai/)
+[![Behance](https://img.shields.io/badge/-Behance-0057ff?style=flat-square&logo=behance&logoColor=white)](https://www.behance.net/luojiahai)
 
 ---
 
