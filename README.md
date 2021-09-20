@@ -11,8 +11,8 @@
 <img align="right" alt="GIF" src="https://media.giphy.com/media/3ov9jNziFTMfzSumAw/giphy.gif" />
 
 - 👶 I'm from [China](https://ditu.amap.com/place/B0FFF9IT5H)
-- 🔭 I’m currently working on random projects
-- 🌱 I’m currently learning quantum information
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning ...
 - 💬 Ask me about anything
 - 📧 My email address is luo[at]jiahai.co
 - 🎓 See my [Curriculum Vitae](https://luojiahai.com/cv/) for more information
