@@ -9,7 +9,7 @@
 ---
 
 - 👶 I'm from [China](https://ditu.amap.com/place/B0FFF9IT5H)
-- 🔭 I’m currently working on compilers
+- 🔭 I’m currently working on compiler implementation
 - 🌱 I’m currently learning complier design
 - 💬 Ask me about anything
 - 📧 My email address is luo[at]jiahai.co
