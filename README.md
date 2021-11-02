@@ -9,8 +9,8 @@
 ---
 
 - 👶 I'm from [China](https://ditu.amap.com/place/B0FFF9IT5H)
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
+- 🔭 I’m currently working on compilers
+- 🌱 I’m currently learning complier design
 - 💬 Ask me about anything
 - 📧 My email address is luo[at]jiahai.co
 - 🎓 See my [Curriculum Vitae](https://luojiahai.com/cv/) for more information
