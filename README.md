@@ -49,4 +49,4 @@ Here are some ideas to get you started:
 
 ---
 
-[![luojiahai's github stats](https://github-readme-stats.vercel.app/api?username=luojiahai&theme=github_dark&show_icons=true&locale=cn)](https://github.com/luojiahai/)
+[![luojiahai's github stats](https://github-readme-stats.vercel.app/api?username=luojiahai&theme=github_dark&show_icons=true&border_radius=0&locale=cn)](https://github.com/luojiahai/)
