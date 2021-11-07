@@ -8,7 +8,7 @@
 
 ---
 
-- 👶 I'm from [China](https://ditu.amap.com/place/B0FFF9IT5H), currently live in Australia
+- 👶 I'm from [China](https://ditu.amap.com/place/B0FFF9IT5H), currently living in Australia
 - 🔭 I’m currently working on programming language design and implementation
 - 🌱 I’m currently learning something
 - 💬 Ask me about anything
