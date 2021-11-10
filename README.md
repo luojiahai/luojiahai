@@ -9,8 +9,8 @@
 ---
 
 - 👶 I'm from [China](https://ditu.amap.com/place/B0FFF9IT5H), currently living in Australia
-- 🔭 I’m currently working on the [Sheng](https://github.com/sheng-lang/sheng) programming language
-- 🌱 I’m currently learning something
+- 🔭 I’m currently engineering the [Sheng](https://github.com/sheng-lang/sheng) programming language
+- 🌱 I’m currently learning engineer self-cultivation
 - 💬 Ask me about anything
 - 📧 My email address is luo[at]jiahai.co
 - 🎓 See my [Curriculum Vitae](https://luojiahai.com/cv/) for more information
