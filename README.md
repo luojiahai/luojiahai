@@ -1,6 +1,6 @@
 ### Hi, I'm [luojiahai](https://luojiahai.com) 👋
 
-[![Instagram](https://img.shields.io/badge/-Instagram-black?style=flat-square&logo=instagram&logoColor=white)](https://instagram.com/luojiahai/)
+[![Instagram](https://img.shields.io/badge/-Instagram-f03752?style=flat-square&logo=instagram&logoColor=white)](https://instagram.com/luojiahai/)
 [![Bilibili](https://img.shields.io/badge/-Bilibili-FB7299?style=flat-square&logo=bilibili&logoColor=white)](https://space.bilibili.com/866961/)
 [![Weibo](https://img.shields.io/badge/-Weibo-eb7350?style=flat-square&logo=sina-weibo&logoColor=white)](https://weibo.com/1952554453/)
 [![Twitter](https://img.shields.io/badge/-Twitter-1da1f2?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/luojiahai)
@@ -10,7 +10,7 @@
 
 - 👶 I'm from [China](https://ditu.amap.com/place/B0FFF9IT5H), currently living in Australia
 - 🔭 I’m currently engineering the [Sheng](https://github.com/sheng-lang/sheng) programming language
-- 🌱 I’m currently learning engineer self-cultivation
+- 🌱 I’m currently learning an engineer prepares
 - 💬 Ask me about anything
 - 📧 My email address is luo[at]jiahai.co
 - 🎓 See my [Curriculum Vitae](https://luojiahai.com/cv/) for more information
