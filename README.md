@@ -8,7 +8,8 @@
 
 ---
 
-- 👶 I'm from [China](https://ditu.amap.com/place/B0FFF9IT5H), currently living in Australia
+- ✨ My name is Geoffrey
+- 👶 I'm from [Guangzhou, China](https://ditu.amap.com/place/B0FFF9IT5H), currently living in Australia
 - 🔭 I’m currently engineering the [Sheng](https://github.com/sheng-lang/sheng) programming language
 - 🌱 I’m currently learning an engineer prepares
 - 💬 Ask me about anything
