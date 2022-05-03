@@ -8,9 +8,8 @@
 
 ---
 
-- ✨ My name is Geoffrey
 - 👶 I'm from [Guangzhou, China](https://ditu.amap.com/place/B0FFF9IT5H), currently living in Australia
-- 🔭 I’m currently engineering a programming language
+- 🔭 I’m currently working hard for a living
 - 🌱 I’m currently learning an engineer prepares
 - 💬 Ask me about anything
 - 📧 My email address is luo[at]jiahai.co
