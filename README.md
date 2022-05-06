@@ -13,7 +13,7 @@
 - 🌱 I’m currently learning an engineer prepares
 - 💬 Ask me about anything
 - 📧 My email address is luo[at]jiahai.co
-- 🎓 See my [Curriculum Vitae](https://luojiahai.com/cv/) for more information
+<!-- - 🎓 See my [Curriculum Vitae](https://luojiahai.com/cv/) for more information -->
 
 <!--
 **luojiahai/luojiahai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
