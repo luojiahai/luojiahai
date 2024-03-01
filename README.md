@@ -1,7 +1,5 @@
 ### Hi, I'm [luojiahai](https://luojiahai.com) 👋
 
-![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
-
 ---
 
 - 🔭 I’m currently working hard for a living
@@ -10,6 +8,8 @@
 
 <!--
 **luojiahai/luojiahai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
 
 Here are some ideas to get you started:
 
