@@ -8,7 +8,6 @@
 
 ---
 
-- 👶 I was born in [Guangzhou, China](https://ditu.amap.com/place/B0FFF9IT5H), am currently living in Australia
 - 🔭 I’m currently working hard for a living
 - 🌱 I’m currently learning an engineer prepares
 - 📧 My email address is luo[at]jiahai.co
