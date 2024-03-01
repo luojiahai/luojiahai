@@ -1,5 +1,6 @@
 ### Hi, I'm [luojiahai](https://luojiahai.com) 👋
 
+[![](https://img.shields.io/badge/-X-000000?style=flat-square&logo=x&logoColor=white)](https://x.com/luojiahai)
 [![](https://img.shields.io/badge/-Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://instagram.com/luojiahai)
 
 ---
