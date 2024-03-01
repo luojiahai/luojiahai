@@ -1,10 +1,6 @@
 ### Hi, I'm [luojiahai](https://luojiahai.com) 👋
 
-[![Instagram](https://img.shields.io/badge/-Instagram-f03752?style=flat-square&logo=instagram&logoColor=white)](https://instagram.com/luojiahai/)
-[![Bilibili](https://img.shields.io/badge/-Bilibili-FB7299?style=flat-square&logo=bilibili&logoColor=white)](https://space.bilibili.com/866961/)
-[![Weibo](https://img.shields.io/badge/-Weibo-eb7350?style=flat-square&logo=sina-weibo&logoColor=white)](https://weibo.com/1952554453/)
-[![X](https://img.shields.io/badge/-X-000000?style=flat-square&logo=x&logoColor=white)](https://x.com/luojiahai/)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0073b1?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/luojiahai/)
+![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
 
 ---
 
