@@ -8,7 +8,7 @@
 ---
 
 - 🔭 I’m currently working hard for a living
-- 🌱 I’m currently learning an engineer prepares
+- 🌱 I’m currently learning how machine thinks
 - 📧 My email address is luo[at]jiahai.co
 
 <!--
