@@ -10,7 +10,7 @@
 - 🔭 I’m currently working hard for a living
 - 🌱 I’m currently learning how machine thinks
 - 🤔 I’m looking for help with making money
-- 💬 Ask me about artificial intelligence planning and autonomy
+- 💬 Ask me about artificial intelligence planning for autonomy
 - 📫 How to reach me: luo[at]jiahai.co
 - ⚡ Fun fact: I like flying A320neo
 
