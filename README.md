@@ -9,7 +9,10 @@
 
 - 🔭 I’m currently working hard for a living
 - 🌱 I’m currently learning how machine thinks
-- 📧 My email address is luo[at]jiahai.co
+- 🤔 I’m looking for help with making money
+- 💬 Ask me about artificial intelligence planning and autonomy
+- 📫 How to reach me: luo[at]jiahai.co
+- ⚡ Fun fact: I like flying A320neo
 
 <!--
 **luojiahai/luojiahai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
