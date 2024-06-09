@@ -11,7 +11,7 @@
 - 🤔 I’m looking for help with making money
 - 💬 Ask me about artificial intelligence planning for autonomy
 - 📫 How to reach me: luo[at]jiahai.co
-- ⚡ Fun fact: I like flying A320neo
+- ⚡ Fun fact: I like flying A320neo on MSFS2020
 
 <!--
 **luojiahai/luojiahai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
