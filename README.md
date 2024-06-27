@@ -10,7 +10,6 @@
 - 🖥️ I am a software development engineer.
 - 🔭 I am currently working hard for a living.
 - 🌱 I am currently learning how machine thinks.
-- 🤔 I am looking for help with making money.
 - 📫 How to reach me: luo[at]jiahai.co
 
 <!--
