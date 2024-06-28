@@ -6,7 +6,7 @@
 
 ---
 
-- 🖥️ I am a professional computer worker.
+- 🖥️ I am a software development engineer.
 - 🔭 I am currently working hard for a living.
 - 🌱 I am currently learning how machine thinks.
 - 📫 How to reach me: luo[at]jiahai.co
