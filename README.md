@@ -1,10 +1,12 @@
-### Hi, I'm [luojiahai](https://luojiahai.com) 👋
+### `> whoami _`
 
+<!--
 [![](https://img.shields.io/badge/-X-000000?style=flat-square&logo=x&logoColor=white)](https://x.com/luojiahai)
 [![](https://img.shields.io/badge/-Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://instagram.com/luojiahai)
 [![](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/luojiahai)
 
 ---
+-->
 
 - 🖥️ I am a software development engineer.
 - 🔭 I am currently working hard for a living.
