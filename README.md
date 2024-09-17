@@ -8,14 +8,15 @@
 ---
 -->
 
-👋 hi there.
+👋 Hi there.
 
-- 🖥️ i am a software development engineer.
-- 🔭 i am currently working hard for a living.
-- 🌱 i am currently learning how machine thinks.
-- 😄 personality: architect / intj
-- 💬 motto: i cook, eat, am afk, and get disconnected.
-- 📫 how to reach me: `luo[at]jiahai.co`
+- 🖥️ I am a software development engineer.
+- 🔭 I am currently working hard for a living.
+- 🌱 I am currently learning how machine thinks.
+- 😄 Personality: Architect / INTJ
+- 💬 Motto: I cook, eat, am afk, and get disconnected.
+- 📫 How to reach me: `luo[at]jiahai.co`
+- 📍 Current location: Melbourne, Victoria, Australia
 
 <!--
 **luojiahai/luojiahai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
