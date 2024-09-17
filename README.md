@@ -11,7 +11,7 @@
 - 🖥️ i am a software development engineer.
 - 🔭 i am currently working hard for a living.
 - 🌱 i am currently learning how machine thinks.
-- ✨ personality: intj
+- 🤔 personality: intj
 - 📫 how to reach me: `luo[at]jiahai.co`
 
 <!--
