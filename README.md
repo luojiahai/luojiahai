@@ -8,10 +8,11 @@
 ---
 -->
 
-- 🖥️ I am a software development engineer.
-- 🔭 I am currently working hard for a living.
-- 🌱 I am currently learning how machine thinks.
-- 📫 How to reach me: luo[at]jiahai.co
+- 🖥️ i am a software development engineer.
+- 🔭 i am currently working hard for a living.
+- 🌱 i am currently learning how machine thinks.
+- ✨ personality: intj
+- 📫 how to reach me: `luo[at]jiahai.co`
 
 <!--
 **luojiahai/luojiahai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
