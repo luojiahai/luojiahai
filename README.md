@@ -10,9 +10,9 @@
 
 👋 Hi there.
 
-- 🖥️ I am a software development engineer.
-- 🔭 I am currently working hard for a living.
-- 🌱 I am currently learning how machine thinks.
+- 🖥️ I'm a software development engineer.
+- 🔭 I'm currently working hard for a living.
+- 🌱 I'm currently learning how machine thinks.
 - 😄 Personality: Architect / INTJ
 - 📫 How to reach me: `luo[at]jiahai.co`
 - 📍 Current location: Melbourne, Victoria, Australia
