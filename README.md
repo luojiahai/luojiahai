@@ -14,7 +14,6 @@
 - 🔭 I'm currently working hard for a living.
 - 🌱 I'm currently learning how machine thinks.
 - 😄 Personality: Architect / INTJ
-- 💬 Motto: I'm afk, I cook, I eat, and I get disconnected.
 - 📫 How to reach me: `luo[at]jiahai.co`
 - 📍 Current location: Melbourne, Victoria, Australia
 
