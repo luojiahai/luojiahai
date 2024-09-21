@@ -15,7 +15,6 @@
 - 🌱 I'm currently learning how machine thinks.
 - 😄 Personality: Architect / INTJ
 - 📫 How to reach me: `luo[at]jiahai.co`
-- 📍 Current location: Melbourne, Victoria, Australia
 
 <!--
 **luojiahai/luojiahai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
