@@ -10,11 +10,11 @@
 
 👋 Hi there.
 
-- 🖥️ I'm a software development engineer.
+- 🖥️ I work in software development engineering.
 - 🔭 I'm currently working hard for a living.
 - 🌱 I'm currently learning how machine thinks.
-- 😄 Personality: Architect / INTJ
-- 📫 How to reach me: `luo[at]jiahai.co`
+- 😄 Personality: INTJ
+- 📫 How to reach me: `luo [at] jiahai.co`
 
 <!--
 **luojiahai/luojiahai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
