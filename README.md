@@ -10,7 +10,7 @@
 
 👋 Hi there.
 
-- 🖥️ I work in software development engineering.
+- 🖥️ I work in software engineering.
 - 🔭 I'm currently working hard for a living.
 - 🌱 I'm currently learning how machine thinks.
 - 😄 Personality: INTJ
