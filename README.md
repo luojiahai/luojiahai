@@ -12,7 +12,7 @@
 
 - 🖥️ I do software engineering for a living.
 - 🔭 I'm striving to live life to the fullest.
-- 🌱 I'm currently learning how machine thinks.
+- 🌱 I'm learning how machine thinks.
 - 😄 My personality is INTJ.
 - 📫 How to reach me: `luo [at] jiahai.co`
 
