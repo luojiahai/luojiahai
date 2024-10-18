@@ -10,8 +10,8 @@
 
 👋 Hi there.
 
-- 🖥️ I do software engineering for a living.
-- 🔭 I'm striving to live life to the fullest.
+- 🖥️ I do software development for a living.
+- 🔭 I'm striving to live life.
 - 🌱 I'm learning how machine thinks.
 - 😄 My personality is INTJ.
 - 📫 How to reach me: `luo [at] jiahai.co`
