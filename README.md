@@ -10,10 +10,9 @@
 
 👋 Hi there.
 
-- 🖥️ I do software development for a living.
-- 🔭 I'm striving to live life.
-- 🌱 I'm learning how machine thinks.
-- 😄 My personality is INTJ.
+- 🤔 My personality is INTJ.
+- 🔭 I am a software developer. I am striving to live life.
+- 🌱 I like eating, cooking, and grocery shopping.
 - 📫 How to reach me: `luo [at] jiahai.co`
 
 <!--
