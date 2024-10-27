@@ -11,9 +11,9 @@
 👋 Hi there.
 
 - 🤔 My personality is INTJ.
-- 🔭 I am a software developer. I am striving to live life.
+- 🔭 I am a software developer.
 - 🌱 I like eating, cooking, and grocery shopping.
-- 📫 How to reach me: `luo [at] jiahai.co`
+- 📫 How to reach me: `luo[at]jiahai.co`
 
 <!--
 **luojiahai/luojiahai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
