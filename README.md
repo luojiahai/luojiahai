@@ -10,7 +10,7 @@
 
 👋 Hi there.
 
-- 🤔 My personality is INTJ.
+- 🤗 My personality is INTJ.
 - 🔭 I am a software developer.
 - 🌱 I like eating, cooking, and grocery shopping.
 - 📫 How to reach me: `luo[at]jiahai.co`
