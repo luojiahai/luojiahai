@@ -1,4 +1,4 @@
-### `> whoami _`
+## `whoami`
 
 <!--
 [![](https://img.shields.io/badge/-X-000000?style=flat-square&logo=x&logoColor=white)](https://x.com/luojiahai)
