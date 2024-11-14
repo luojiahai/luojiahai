@@ -8,11 +8,11 @@
 ---
 -->
 
-👋 Hi there.
+👋 hi there.
 
-- 🤗 INTJ.
-- 🔭 Software developer.
-- 🌱 Eating, cooking, grocery shopping.
+- 🤗 intj
+- 🔭 software developer
+- 🌱 eating, cooking, grocery shopping
 - 📫 luo[at]jiahai.co
 
 <!--
