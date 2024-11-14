@@ -10,10 +10,10 @@
 
 👋 Hi there.
 
-- 🤗 My personality is INTJ (Architect).
-- 🔭 I am a software development engineer.
-- 🌱 I like eating, cooking, and grocery shopping.
-- 📫 How to reach me: `luo[at]jiahai.co`
+- 🤗 INTJ.
+- 🔭 Software developer.
+- 🌱 Eating, cooking, grocery shopping.
+- 📫 luo[at]jiahai.co
 
 <!--
 **luojiahai/luojiahai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
