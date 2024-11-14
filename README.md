@@ -8,9 +8,9 @@
 ---
 -->
 
-👋 hi there.
+👋 Hi there.
 
-- 🤗 intj
+- 🤗 INTJ
 - 🔭 software developer
 - 🌱 eating, cooking, grocery shopping
 - 📫 luo[at]jiahai.co
