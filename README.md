@@ -11,7 +11,7 @@
 👋 Hi there.
 
 - 🤗 INTJ
-- 🔭 software developer
+- 🔭 non-senior software engineer
 - 🌱 eating, cooking, grocery shopping
 - 📫 luo[at]jiahai.co
 
