@@ -10,7 +10,7 @@
 
 👋 hi there.
 
-- 🤗 intj
+- 🤗 intj assertive personality
 - 🔭 non-senior earth resident
 - 🌱 eating, cooking, grocery shopping
 - 📫 luo[at]jiahai.co
