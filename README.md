@@ -8,11 +8,23 @@
 ---
 -->
 
-👋 hi there.
+```typescript
+// I'm using TypeScript just to make it easier for you to read, not because I like it.
 
-- 🤗 intj
-- 🌱 eating, cooking, grocery shopping
-- 📫 luo[at]jiahai.co
+export default {
+  name: "luojiahai",
+  anglicization: "geoffrey",
+  title: "non-senior earth resident",
+  personality: {
+    code: "intj",
+    type: "architect",
+  },
+  email: "luo[at]jiahai.co".replace("[at]", "@"), // email is obfuscated to prevent spam; replace [at] with @
+  website: new URL("https://luojiahai.com/"),
+  birthplace: "guangzhou",
+  languages: ["mandarin chinese", "cantonese chinese", "english"],
+};
+```
 
 <!--
 **luojiahai/luojiahai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
