@@ -1,5 +1,3 @@
-## `whoami`
-
 <!--
 [![](https://img.shields.io/badge/-X-000000?style=flat-square&logo=x&logoColor=white)](https://x.com/luojiahai)
 [![](https://img.shields.io/badge/-Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://instagram.com/luojiahai)
@@ -9,9 +7,7 @@
 -->
 
 ```typescript
-// I'm using TypeScript just to make it easier for you to read, not because I like it.
-
-export default {
+export const whoami = {
   name: "luojiahai",
   anglicization: "geoffrey",
   title: "non-senior earth resident",
@@ -40,8 +36,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
----
 
 [![luojiahai's github stats](https://github-readme-stats.vercel.app/api?username=luojiahai&theme=github_dark&show_icons=true&border_radius=0&rank_icon=github)](https://github.com/luojiahai/)
 
