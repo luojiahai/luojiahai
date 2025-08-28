@@ -8,13 +8,12 @@
 export const whoami = {
   handle: "luojiahai",
   anglicization: "geoffrey",
-  title: "non-senior earth resident",
   personality: {
     code: "intj",
     type: "architect",
   },
-  email: "luo[at]jiahai.co".replace("[at]", "@"), // email is obfuscated to prevent spam; replace [at] with @
-  website: new URL("https://luojiahai.com/"),
+  email: "luo[at]jiahai.co".replace("[at]", "@"),
+  website: new URL("https://luojiahai.com"),
   birthplace: "guangzhou",
   languages: ["mandarin chinese", "cantonese chinese", "english"],
 };
