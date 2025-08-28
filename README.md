@@ -6,7 +6,7 @@
 
 ```typescript
 export const whoami = {
-  name: "luojiahai",
+  handle: "luojiahai",
   anglicization: "geoffrey",
   title: "non-senior earth resident",
   personality: {
