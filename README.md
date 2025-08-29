@@ -6,7 +6,7 @@
 
 ```typescript
 export default {
-  name: "luo jiahai",
+  name: "luojiahai",
   anglicized: "geoffrey",
   personality: "intj",
   email: "luo[at]jiahai.co".replace("[at]", "@"),
