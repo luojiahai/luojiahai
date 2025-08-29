@@ -6,8 +6,10 @@
 
 ```typescript
 export const whoami = {
-  handle: "luojiahai",
-  anglicization: "geoffrey",
+  name: {
+    handle: "luojiahai",
+    anglicized: "geoffrey",
+  },
   personality: {
     code: "intj",
     type: "architect",
