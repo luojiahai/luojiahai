@@ -5,15 +5,10 @@
 -->
 
 ```typescript
-export const whoami = {
-  name: {
-    full: "luo jiahai",
-    anglicized: "geoffrey",
-  },
-  personality: {
-    code: "intj",
-    type: "architect",
-  },
+export default {
+  name: "luo jiahai",
+  anglicized: "geoffrey",
+  personality: "intj",
   email: "luo[at]jiahai.co".replace("[at]", "@"),
   website: new URL("https://luojiahai.com"),
   birthplace: "guangzhou",
