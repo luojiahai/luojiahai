@@ -6,12 +6,15 @@
 
 ```typescript
 export default {
-  name: "luojiahai",
-  anglicized: "geoffrey",
-  personality: "intj",
+  name: {
+    full: "luojiahai",
+    anglicized: "geoffrey",
+  },
+  personality: MyersBriggs.INTJ,
   email: "luo[at]jiahai.co".replace("[at]", "@"),
   website: new URL("https://luojiahai.com"),
-  birthplace: "guangzhou",
+  hometown: "guangzhou, china",
+  location: "melbourne, australia",
   languages: ["mandarin chinese", "cantonese chinese", "english"],
 };
 ```
