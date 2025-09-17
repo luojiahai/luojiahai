@@ -4,13 +4,17 @@
 [![](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/luojiahai)
 -->
 
+# luojiahai
+
+### hello, world!
+
+I like eating, cooking, and grocery shopping. Eating snacks after each meal is a must, usually potato chips.
+
 ```typescript
 export default {
-  name: {
-    full: "Luo Jiahai",
-    anglicized: "Geoffrey",
-  },
-  personality: MyersBriggs.INTJ,
+  name: "luojiahai",
+  anglicizedName: "Geoffrey",
+  personality: MyersBriggsTypeIndicator.INTJ,
   email: "luo[at]jiahai.co".replace("[at]", "@"),
   website: new URL("https://luojiahai.com"),
   hometown: "Guangzhou, Guangdong, China",
