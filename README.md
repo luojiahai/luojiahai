@@ -8,12 +8,11 @@
 
 ### hello, world!
 
-I like eating, cooking, and grocery shopping. Eating snacks after each meal is a must, usually potato chips.
+I like eating, cooking, and grocery shopping; lying on the couch watching tv with a coke and some snacks. I'm a believer in mcdonald's and kentucky fried chicken.
 
 ```typescript
 export default {
   name: "luojiahai",
-  anglicizedName: "Geoffrey",
   personality: MyersBriggsTypeIndicator.INTJ,
   email: "luo[at]jiahai.co".replace("[at]", "@"),
   website: new URL("https://luojiahai.com"),
