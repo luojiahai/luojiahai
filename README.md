@@ -8,7 +8,7 @@
 
 ### hello, world!
 
-I like eating, cooking, and grocery shopping; lying on the couch watching tv with a coke and some snacks. I'm a believer in mcdonald's and kentucky fried chicken.
+i like eating, cooking, and grocery shopping. in my downtime at home, i relax on the couch with a coke and some snacks, watching tv.
 
 ```typescript
 export default {
@@ -16,9 +16,9 @@ export default {
   personality: MyersBriggsTypeIndicator.INTJ,
   email: "luo[at]jiahai.co".replace("[at]", "@"),
   website: new URL("https://luojiahai.com"),
-  hometown: "Guangzhou, Guangdong, China",
-  location: "Melbourne, Victoria, Australia",
-  languages: ["Mandarin Chinese", "Cantonese Chinese", "English"],
+  hometown: "guangzhou, guangdong, china",
+  location: "melbourne, victoria, australia",
+  languages: ["mandarin chinese", "cantonese chinese", "english"],
 };
 ```
 
