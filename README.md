@@ -14,10 +14,10 @@ i like eating, cooking, and grocery shopping. in my downtime at home, i relax on
 {
   "name": "luojiahai",
   "personality": "intj",
-  "email": "luo[at]jiahai.co", // replace [at] with @
-  "website": "https://luojiahai.com",
-  "hometown": "guangzhou, guangdong, china",
+  "email": "luo[at]jiahai.co",
+  "school": "the university of melbourne",
   "location": "melbourne, victoria, australia",
+  "hometown": "guangzhou, guangdong, china",
   "languages": ["mandarin chinese", "cantonese chinese", "english"]
 }
 ```
