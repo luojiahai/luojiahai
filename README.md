@@ -8,7 +8,7 @@
 
 ### hello, world!
 
-i like eating, cooking, and grocery shopping. in my downtime at home, i relax on the couch with a coke and some snacks, watching tv.
+i like eating, cooking, and grocery shopping. in my downtime at home, i relax on the couch watching tv, drinking coke, and eating snacks
 
 ```json
 {
