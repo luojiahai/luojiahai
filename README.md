@@ -10,6 +10,9 @@
 
 i like eating, cooking, and grocery shopping. in my downtime at home, i relax on the couch watching tv, drinking coke, and eating snacks
 
+```bash
+$ whoami
+```
 ```json
 {
   "name": "luojiahai",
