@@ -19,7 +19,6 @@ $ whoami
   "personality": "intj",
   "animal": "pig",
   "email": "luo[at]jiahai.co",
-  "school": "the university of melbourne",
   "location": "melbourne, victoria, australia",
   "hometown": "guangzhou, guangdong, china"
 }
