@@ -21,8 +21,7 @@ $ whoami
   "email": "luo[at]jiahai.co",
   "school": "the university of melbourne",
   "location": "melbourne, victoria, australia",
-  "hometown": "guangzhou, guangdong, china",
-  "languages": ["mandarin chinese", "cantonese chinese", "english"]
+  "hometown": "guangzhou, guangdong, china"
 }
 ```
 
