@@ -12,9 +12,6 @@ $ whoami
   "name": "luojiahai",
   "personality": "intj",
   "animal": "pig",
-  "email": "luo[at]jiahai.co",
-  "location": "melbourne, victoria, australia",
-  "hometown": "guangzhou, guangdong, china"
 }
 ```
 
