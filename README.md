@@ -4,12 +4,6 @@
 [![](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/luojiahai)
 -->
 
-# luó, jiāhǎi
-
-### hello, world!
-
-i like eating, cooking, and grocery shopping. in my downtime at home, i relax on the couch watching tv, drinking coke, and eating snacks
-
 ```bash
 $ whoami
 ```
