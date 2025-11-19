@@ -12,7 +12,8 @@ $ whoami
   "name": "luojiahai",
   "personality": "intj",
   "animal": "pig",
-  "astrological": "crab"
+  "astrological": "crab",
+  "languages": ["mandarin chinese", "cantonese chinese", "english"]
 }
 ```
 
