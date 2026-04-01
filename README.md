@@ -4,18 +4,7 @@
 [![](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/luojiahai)
 -->
 
-```bash
-$ whoami
-```
-```json
-{
-  "name": "luojiahai",
-  "personality": "intj",
-  "animal": "pig",
-  "astrological": "crab",
-  "languages": ["mandarin chinese", "cantonese chinese", "english"]
-}
-```
+hi!
 
 <!--
 **luojiahai/luojiahai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
