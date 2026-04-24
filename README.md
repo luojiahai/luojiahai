@@ -5,9 +5,6 @@
 -->
 
 ```
-  ///|||  luojiahai v3.14159
- /// |||  INTJ · Computer Programmer
-///  ╷╷╷
 ```
 
 <!--
