@@ -4,7 +4,9 @@
 [![](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/luojiahai)
 -->
 
-I'm luojiahai, INTJ, a pragmatic computer programmer. I build useful things.
+Introverted + Intuitive + Thinking + Judging =
+
+I'm luojiahai, a pragmatic computer programmer. I build useful things.
 
 <!--
 **luojiahai/luojiahai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
