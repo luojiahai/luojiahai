@@ -4,7 +4,7 @@
 [![](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/luojiahai)
 -->
 
-Introverted + Intuitive + Thinking + Judging =
+**I**ntroverted + I**n**tuitive + **T**hinking + **J**udging = ?
 
 I'm luojiahai, a pragmatic computer programmer. I build useful things.
 
