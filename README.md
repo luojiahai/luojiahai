@@ -4,7 +4,8 @@
 [![](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/luojiahai)
 -->
 
-INTJ
+<img src="https://raw.githubusercontent.com/luojiahai/luojiahai/main/assets/terminal.svg" width="100%" alt="luojiahai">
+
 
 <!--
 **luojiahai/luojiahai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
