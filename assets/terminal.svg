@@ -20,6 +20,7 @@
   <rect x="182" y="52" width="9" height="21" fill="#c9d1d9" opacity=".85">
     <animate attributeName="x" dur="2.35s" calcMode="discrete" keyTimes="0;0.298;0.33;0.362;0.394;0.426;0.457;0.489;0.521;0.553;0.585;0.617;0.649;0.681;0.713;0.745;0.777;0.809;1" values="182;182;191;200;209;218;227;236;245;254;263;272;281;290;299;308;317;326;182" fill="freeze"/>
     <animate attributeName="y" dur="2.35s" calcMode="discrete" keyTimes="0;0.298;0.33;0.362;0.394;0.426;0.457;0.489;0.521;0.553;0.585;0.617;0.649;0.681;0.713;0.745;0.777;0.809;1" values="52;52;52;52;52;52;52;52;52;52;52;52;52;52;52;52;52;52;118" fill="freeze"/>
-    <animate attributeName="opacity" values=".85;0" dur="1.1s" calcMode="discrete" begin="0s;2.65s" end="0.7s" repeatCount="indefinite"/>
+    <animate attributeName="opacity" values=".85;0" dur="1.1s" calcMode="discrete" begin="0s" end="0.7s" repeatCount="indefinite"/>
+    <animate attributeName="opacity" values=".85;0" dur="1.1s" calcMode="discrete" begin="2.65s" repeatCount="indefinite"/>
   </rect>
 </svg>
