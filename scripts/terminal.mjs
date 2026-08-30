@@ -48,7 +48,7 @@ const clipWidth = hold([[0, promptCells * CELL], ...keystrokes.map(([t, dx]) => 
 const cursorXFrames = hold([[0, cursorX0], ...keystrokes.map(([t, dx]) => [t, cursorX0 + dx]), [outputAt, cursorX0]]);
 const cursorYFrames = hold([[0, cursorY(0)], [outputAt, cursorY(output.length)]]);
 const blinks = [];
-for (let t = blinkStart, on = true; t < LOOP; t += BLINK, on = !on) blinks.push([t, on ? 0.85 : 0]);
+for (let t = LOOP - BLINK, on = false; t >= blinkStart; t -= BLINK, on = !on) blinks.unshift([t, on ? 0.85 : 0]);
 const cursorOpacity = [[0, 0.85], [BLINK, 0], [BLINK + 0.35, 0.85], ...blinks, [LOOP, 0]];
 
 const svg = `<svg xmlns="http://www.w3.org/2000/svg" width="800" height="200" viewBox="0 0 800 200">
